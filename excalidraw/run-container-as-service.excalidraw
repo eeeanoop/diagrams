@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "9y5sLCrIe3u_DlHJzmQEs",
+      "type": "text",
+      "x": 457.9140625,
+      "y": 173.9453125,
+      "width": 638,
+      "height": 250,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 584949127,
+      "version": 421,
+      "versionNonce": 125181929,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1748799130013,
+      "link": null,
+      "locked": false,
+      "text": "1. create a registry file in ~/.config/registry.conf\n2. podman login\n3. create a containerfile\n4. podman build -t -f ./containerfile --name web .\n5. ~/.config/systemd/user/container-web-app.service \n6. podman generate service --new --file\n6. systemctl --user daemon-reload\n7. systemctl --user enable --now contaienr-web-app.service\n8. loginctl enable-linger\n",
+      "fontSize": 20,
+      "fontFamily": 8,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "1. create a registry file in ~/.config/registry.conf\n2. podman login\n3. create a containerfile\n4. podman build -t -f ./containerfile --name web .\n5. ~/.config/systemd/user/container-web-app.service \n6. podman generate service --new --file\n6. systemctl --user daemon-reload\n7. systemctl --user enable --now contaienr-web-app.service\n8. loginctl enable-linger\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
