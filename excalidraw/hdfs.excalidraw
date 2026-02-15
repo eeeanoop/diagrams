@@ -368,7 +368,7 @@
       "id": "UfnfFUcN9jtHN-QXj-hA7",
       "type": "rectangle",
       "x": 1184.3048095703125,
-      "y": 318.787841796875,
+      "y": 318.912841796875,
       "width": 195.65625,
       "height": 111.7890625,
       "angle": 0,
@@ -386,8 +386,8 @@
         "type": 3
       },
       "seed": 1900891181,
-      "version": 4,
-      "versionNonce": 1221822061,
+      "version": 7,
+      "versionNonce": 494905901,
       "isDeleted": false,
       "boundElements": [
         {
@@ -399,7 +399,7 @@
           "id": "QetTMGNYF6sbg93133UQz"
         }
       ],
-      "updated": 1767413674702,
+      "updated": 1767413810709,
       "link": null,
       "locked": false
     },
@@ -407,9 +407,9 @@
       "id": "QetTMGNYF6sbg93133UQz",
       "type": "text",
       "x": 1197.922981262207,
-      "y": 362.182373046875,
+      "y": 324.807373046875,
       "width": 168.41990661621094,
-      "height": 25,
+      "height": 100,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#ffc9c9",
@@ -423,20 +423,20 @@
       "index": "aBV",
       "roundness": null,
       "seed": 1376486211,
-      "version": 17,
-      "versionNonce": 1682734307,
+      "version": 56,
+      "versionNonce": 994646819,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1767413678902,
+      "updated": 1767413810709,
       "link": null,
       "locked": false,
-      "text": "Meta Data Store",
+      "text": "Meta Data Store\n1. Name\n2. Location\n3. Replicas",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": "UfnfFUcN9jtHN-QXj-hA7",
-      "originalText": "Meta Data Store",
+      "originalText": "Meta Data Store\n1. Name\n2. Location\n3. Replicas",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -444,9 +444,9 @@
       "id": "1fEZVpVezyr_h5cRTnEve",
       "type": "arrow",
       "x": 1090.3048095703125,
-      "y": 374.682373046875,
+      "y": 374.693551953125,
       "width": 88,
-      "height": 0,
+      "height": 0.125,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -460,11 +460,11 @@
       "index": "aC",
       "roundness": null,
       "seed": 236886307,
-      "version": 4,
-      "versionNonce": 1135824301,
+      "version": 6,
+      "versionNonce": 1304681613,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1767413672974,
+      "updated": 1767413810710,
       "link": null,
       "locked": false,
       "points": [
@@ -474,7 +474,7 @@
         ],
         [
           88,
-          0
+          0.125
         ]
       ],
       "lastCommittedPoint": null,
